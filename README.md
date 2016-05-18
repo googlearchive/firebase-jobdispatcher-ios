@@ -1,7 +1,7 @@
 # Firebase JobDispatcher for iOS
 
 TheFirebase JobDispatcher is an upcoming library that helps you
-orchestrate the work that needs to be done in your application
+manage the work that needs to be done in your application
 
 Planned features:
 - Custom backoff and retry strategies
